@@ -41,7 +41,7 @@ Type: `object`
 
 Members:
 
-- `xRange`: a two-element array with the min and max values for leader lines
+- `xRange`: a two-element array with the min and max x values for leader lines
 - `middleX2`: the average x value for the vertical section of leader lines
 - `targetGap`: the target x-distance between vertical sections of successive leader lines
 - `maxSumOfGaps`: the maximum sum of these x-distances for a run of leader lines
