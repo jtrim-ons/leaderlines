@@ -1,6 +1,6 @@
 {
 	"name": "leaderlines",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Find nice positions for leader lines with two right angles",
 	"license": "MIT",
 	"repository": "jtrim-ons/leaderlines",

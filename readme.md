@@ -2,6 +2,11 @@
 
 > Find nice positions for leader lines with two right angles
 
+Given the start and end y-coordinates of leader lines, this module calculates
+the positions of all the points on the lines, to give a result similar to the
+grey leader lines on
+[Our World in Data's charts](https://ourwaorldindata.org/owid-grapher).
+
 ## Install
 
 ```
